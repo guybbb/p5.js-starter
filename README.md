@@ -1,3 +1,5 @@
 # p5.js starter with webpack
 
-start with running `npm start` 
+first run `npm install` 
+
+to start the dev server `npm start`
