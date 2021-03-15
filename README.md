@@ -1,3 +1,3 @@
 # p5.js starter with webpack
 
-npm start
+start with running `npm start` 
